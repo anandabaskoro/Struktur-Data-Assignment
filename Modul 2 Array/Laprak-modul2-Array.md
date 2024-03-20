@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
+# <h1 align="center">Laporan Praktikum Modul 2 - Array</h1>
 <p align="center">Ananda Baskoro Putra</p>
 <p align="center">2311102187 / 11-E-IF</p>
 
@@ -38,6 +38,7 @@ Misal : int A [3][4][2][5];
 
 ### 1. Program input array tiga dimensi
 
+```C++
     #include <iostream>
     using namespace std;
     // PROGRAM INPUT ARRAY 3 DIMENSI
@@ -84,6 +85,7 @@ Misal : int A [3][4][2][5];
         cout <<endl;
     }
     }
+```
 
     Program tersebut merupakan sebuah program dalam bahasa C++ yang memungkinkan pengguna untuk menginputkan data ke dalam array tiga dimensi dan kemudian menampilkannya. Program ini terdiri dari tiga bagian utama:
 
@@ -105,6 +107,7 @@ Program juga menampilkan array dalam bentuk yang lebih sederhana, dengan menampi
 
 ### 2. Program mencari nilai maksimal pada array
 
+```C++
      #include <iostream>
      using namespace std;
      int main()
@@ -130,6 +133,7 @@ Program juga menampilkan array dalam bentuk yang lebih sederhana, dengan menampi
      }
      cout << "Nilai maksimum adalah " << maks << " berada di Array ke " << lokasi << endl;
      }
+```
 
 #### Deskrpisi Program
 
@@ -138,7 +142,7 @@ Program tersebut bertujuan untuk mencari nikai maksimum yang sudah diinputkan.
 ## Unguided
 
 ### 1.Buatlah program untuk menampilkan Output seperti berikut dengan data yang diinputkan oleh user!
-
+```C++
     #include <iostream> 
     using namespace std; 
 
@@ -169,6 +173,7 @@ Program tersebut bertujuan untuk mencari nikai maksimum yang sudah diinputkan.
     } 
     return 0;
     }
+```
 
 #### Output 
     ![Screenshot 2024-03-19 214208](https://github.com/anandabaskoro/Struktur-Data-Assignment/assets/162494864/5fab827c-8e92-44fb-bc8a-001c051b7bf7)
@@ -179,7 +184,7 @@ Program tersebut bertujuan untuk mencari nikai maksimum yang sudah diinputkan.
 Program tersebut bertujuan untuk memisahkan bilangan genap dan ganjil dari sebuah array yang berisi 10 bilangan yang diinputkan.
 
 ### 2.Buatlah program Input array tiga dimensi (seperti pada guided) tetapi jumlah atau ukuran elemennya diinputkan oleh user!
-
+```C++
     #include <iostream> 
     using namespace std; 
 
@@ -224,6 +229,7 @@ Program tersebut bertujuan untuk memisahkan bilangan genap dan ganjil dari sebua
     } 
     return 0;
     }
+```
 
 #### Output
     ![Screenshot 2024-03-19 214634](https://github.com/anandabaskoro/Struktur-Data-Assignment/assets/162494864/d89a208b-04d1-4950-984e-5c33c3d46c0d)
@@ -233,7 +239,7 @@ Program tersebut bertujuan untuk memisahkan bilangan genap dan ganjil dari sebua
 Program tersebut bertujuan untuk memasukkan jumlah elemen matriks dan ukuran matriks dalam format "baris kolom", kemudian meminta kita untuk memasukkan nilai-nilai elemen dari matriks tiga dimensi. Setelah itu, program akan menampilkan data matriks beserta tampilan matriks satu per satu dengan nomor urutan matriks.
 
 ### 3.Buatlah program menu untuk mencari nilai Maksimum, Minimum dan Nilai rata – rata dari suatu array dengan input yang dimasukan oleh user!
-
+```C++
       #include <iostream> 
      using namespace std; 
 
@@ -302,6 +308,7 @@ Program tersebut bertujuan untuk memasukkan jumlah elemen matriks dan ukuran mat
         } 
      return 0;
     }
+```
 
 #### Output
 
@@ -323,7 +330,6 @@ Array adalah struktur data yang penting dalam pemrograman karena memungkinkan ki
 ## Referensi
 
 aldi-2020-04-04T11_57_12.242Z
-
 
 
 
