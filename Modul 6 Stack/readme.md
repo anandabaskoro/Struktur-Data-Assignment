@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 4 - Linked list circural</h1>
+# <h1 align="center">Laporan Praktikum Modul 6 - Stack</h1>
 <p align="center">Ananda Baskoro Putra</p>
 <p align="center">2311102187 / 11-E-IF</p>
 
